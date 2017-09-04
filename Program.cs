@@ -3,6 +3,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
+using System.IO;
 
 namespace Asp.NETCore
 {
@@ -13,6 +14,7 @@ namespace Asp.NETCore
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseStartup<Startup>()
+                .UseContentRoot(Directory.GetCurrentDirectory())
                 .Build();
                 host.Run();
             
