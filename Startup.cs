@@ -15,5 +15,6 @@ namespace Asp.NETCore
             app.UseMiddleware<MyMiddleware>();
             app.Run(context => context.Response.WriteAsync("Ola Mundo 2 | "));
         }
+
     }
 }
