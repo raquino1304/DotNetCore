@@ -24,6 +24,7 @@ namespace Asp.NETCore
         public void Configure(IApplicationBuilder app)
         {
             app.UseMiddleware<MyMiddleware>();
+            app.UseStaticFiles();
             var applicationName = _configuration.GetValue<string>("ApplicationName");
             app.Run(context => context.Response.WriteAsync($"Ola Mundo 2 | {applicationName} "));
         }

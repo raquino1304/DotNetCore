@@ -8,3 +8,14 @@ D:\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.AssemblyInfoInputs.cache
 D:\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.AssemblyInfo.cs
 D:\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.dll
 D:\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.pdb
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\bin\Debug\netcoreapp2.0\Asp.NETCore.deps.json
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\bin\Debug\netcoreapp2.0\Asp.NETCore.runtimeconfig.json
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\bin\Debug\netcoreapp2.0\Asp.NETCore.runtimeconfig.dev.json
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\bin\Debug\netcoreapp2.0\Asp.NETCore.dll
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\bin\Debug\netcoreapp2.0\Asp.NETCore.pdb
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.csprojResolveAssemblyReference.cache
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.AssemblyInfoInputs.cache
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.AssemblyInfo.cs
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.dll
+C:\Users\raquino_ind\Documents\Projetos\Asp.NETCore\obj\Debug\netcoreapp2.0\Asp.NETCore.pdb
